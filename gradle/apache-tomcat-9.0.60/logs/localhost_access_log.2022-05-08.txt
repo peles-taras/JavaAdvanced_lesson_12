@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [08/May/2022:00:30:07 +0300] "GET /JavaAdvanced-lesson-7/ HTTP/1.1" 404 777
+0:0:0:0:0:0:0:1 - - [08/May/2022:00:30:12 +0300] "GET /JavaAdvanced-lesson-12-gradle/ HTTP/1.1" 200 139
